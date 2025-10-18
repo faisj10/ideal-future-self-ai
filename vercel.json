@@ -1,0 +1,10 @@
+{
+  "buildCommand": "echo 'Building...'",
+  "outputDirectory": ".",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
