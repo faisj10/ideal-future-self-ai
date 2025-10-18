@@ -1,0 +1,10 @@
+{
+  "name": "ideal-future-self-ai",
+  "version": "1.0.0",
+  "description": "AI Coaching App",
+  "scripts": {
+    "build": "echo 'Ready to serve static files'",
+    "start": "echo 'Static files ready'"
+  },
+  "private": true
+}
